@@ -20,30 +20,26 @@ msgid "404 Page not found :("
 msgstr "404 ページがみつかりません (´・ω・`)"
 
 #: public/views/index.html
-msgid ""
-"<strong>insight</strong>  is an <a href=\"http://live.insight.is/\" target="
-"\"_blank\">open-source BitZeny blockchain explorer</a> with complete REST "
-"and websocket APIs that can be used for writing web wallets and other apps  "
-"that need more advanced blockchain queries than provided by bitzenyd RPC.  "
-"Check out the <a href=\"https://github.com/bitpay/insight-ui\" target=\"_blank"
-"\">source code</a>."
-msgstr ""
-"<strong>insight</strong>は、bitzenyd RPCの提供するものよりも詳細なブロック"
-"チェインへの問い合わせを必要とするウェブウォレットやその他のアプリを書くのに"
-"使える、完全なRESTおよびwebsocket APIを備えた<a href=\"http://live.insight."
-"is/\" target=\"_blank\">オープンソースのビットコインブロックエクスプローラ</"
-"a>です。<a href=\"https://github.com/bitpay/insight-ui\" target=\"_blank\">ソース"
-"コード</a>を確認"
 
 #: public/views/index.html
-msgid ""
-"<strong>insight</strong> is still in development, so be sure to report any "
-"bugs and provide feedback for improvement at our <a href=\"https://github."
-"com/bitpay/insight/issues\" target=\"_blank\">github issue tracker</a>."
-msgstr ""
-"<strong>insight</strong>は現在開発中です。<a href=\"https://github.com/"
-"bitpay/insight/issues\" target=\"_blank\">githubのissueトラッカ</a>にてバグの"
-"報告や改善案の提案をお願いします。"
+msgid "Insight is an open-source <strong>BitZeny blockchain explorer</strong>"
+msgstr "Insightはbitzenyd RPCの提供するものよりも詳細なブロックチェーンへの問い合わせを必要とする"
+
+msgid "with complete REST and websocket APIs that can be used for writing web wallets and other apps"
+msgstr "ウェブウォレットやその他のアプリを書くのに使える、完全なRESTおよびwebsocket APIを備えた"
+
+msgid "that need more advanced blockchain queries than provided by bitzenyd RPC."
+msgstr "オープンソースの<strong>BitZenyブロックチェーンエクスプローラ</strong>です。"
+
+msgid "Check out the <a href="https://github.com/bitpay/insight-ui" target="_blank">source code</a>."
+msgstr "ソースコードは<a href="https://github.com/bitpay/insight-ui" target="_blank">こちら</a>"
+
+#: public/views/index.html
+msgid "<strong>Insight</strong>is still in development, so be sure to report any bugs and provide feedback for improvement"
+msgstr "<strong>Insight</strong>は現在開発中です。<a href="https://github.com/bitpay/insight/issues" target="_blank">"
+
+msgid "at our <a href="https://github.com/bitpay/insight-ui/issues" target="_blank">github issue tracker</a>."
+msgstr "githubのissueトラッカ</a>にてバグの報告や改善案の提案をお願いします。"
 
 #: public/views/index.html
 msgid "About"
