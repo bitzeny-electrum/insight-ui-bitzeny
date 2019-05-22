@@ -36,7 +36,7 @@ msgstr "ソースコードは<a href="https://github.com/bitpay/insight-ui" targ
 
 #: public/views/index.html
 msgid "<strong>Insight</strong> is still in development, so be sure to report any bugs and provide feedback for improvement"
-msgstr "<strong>Insight</strong>は現在開発中です。<a href="https://github.com/bitpay/insight_ui/issues" target="_blank">"
+msgstr "<strong>Insight</strong>は現在開発中です。<a href="https://github.com/bitpay/insight-ui/issues" target="_blank">"
 
 msgid "at our <a href="https://github.com/bitpay/insight-ui/issues" target="_blank">github issue tracker</a>."
 msgstr "githubのissueトラッカ</a>にてバグの報告や改善案の提案をお願いします。"
